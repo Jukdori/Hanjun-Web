@@ -1,0 +1,23 @@
+#first {
+    font-family: 'Times New Roman';
+    font-weight: 300;
+
+}
+
+
+#second {
+     font-weight: 700;
+
+}
+#first {
+    font-style: italic; 
+}
+p {
+    line-height: 1.4; 
+}
+h1 {
+    text-align: left;
+    background-color: greenyellow ;
+    width: 400px;
+    height: 400px;
+}
