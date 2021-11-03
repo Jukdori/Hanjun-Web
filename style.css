@@ -1,0 +1,34 @@
+<a>Introduction</a>
+a:hover {
+    color: red; 
+}
+.Linking:Link{
+    color: green;
+}
+a{
+    cursor: pointer;
+}
+#visited:visited{
+    color:orange
+}
+#activeHover:active{
+    color:darkturquoise
+}
+#flex-end{
+    display:flex;
+    justify-contnet:flex-end
+}
+#center{
+    display: flex;
+    justify-content: center;
+}
+#space-around{
+    display: flex;
+    justify-content: space-around;
+}
+#flex-end2{
+    display:flex;
+    align-items:flex-end;
+    background-color:blanchedalmond
+    height: 300px;
+}
